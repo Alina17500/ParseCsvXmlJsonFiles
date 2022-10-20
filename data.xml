@@ -1,0 +1,23 @@
+<staff>
+    <employee>
+        <id>1</id>
+        <firstName>Katerina</firstName>
+        <lastName>Alekseeva</lastName>
+        <country>RU</country>
+        <age>23</age>
+    </employee>
+    <employee>
+        <id>2</id>
+        <firstName>Jhon</firstName>
+        <lastName>Lenon</lastName>
+        <country>USA</country>
+        <age>49</age>
+    </employee>
+    <employee>
+        <id>3</id>
+        <firstName>Antonio</firstName>
+        <lastName>Kastilio</lastName>
+        <country>AG</country>
+        <age>35</age>
+    </employee>
+</staff>
